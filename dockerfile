@@ -6,7 +6,7 @@ RUN apk update && apk add --no-cache \
     gcc \
     libc-dev \
     sqlite-dev \
-    make \
+    make \  
     bash
 
 # Definir o diretório de trabalho
